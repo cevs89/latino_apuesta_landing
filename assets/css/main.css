@@ -1228,10 +1228,10 @@ p {
 }
 
 .player__items {
-  background: linear-gradient(#35082B, #35082B) padding-box, linear-gradient(to right, #E4A91B, #F88021) border-box;
+  background: #B7172F;
   border-radius: 0.5em;
   border: 1px solid transparent;
-  padding: 40px 30px;
+  padding: 10px;
   position: relative;
 }
 .player__items .quation {
