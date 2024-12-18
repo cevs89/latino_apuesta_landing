@@ -27,9 +27,9 @@ $(document).ready(function () {
 	$(".player__wrap").owlCarousel({
 		loop: true,
 		margin: 20,
-		smartSpeed: 2500,
-		autoplayTimeout: 3000,
-		autoplay: false,
+		smartSpeed: 2000,
+		autoplayTimeout: 2000,
+		autoplay: true,
 		nav: false,
 		dots: false,
 		responsiveClass: true,
